@@ -5,7 +5,7 @@ Cube Runner is a fast-paced, endless running game where you control a cube dodgi
 ## Features
 
 - **Endless Gameplay:** The game keeps going until you hit an obstacle.
-- **Simple Controls:** Easy to pick up and play – just use your keyboard or touchscreen.
+- **Simple Controls:** Easy to pick up and play – just use your keyboard.
 - **Dynamic Obstacles:** Dodge a variety of obstacles that increase in difficulty as you progress.
 - **Score System:** Compete for the highest score and challenge your friends.
 - **Clean Graphics:** Minimalistic and visually pleasing design.
@@ -13,7 +13,7 @@ Cube Runner is a fast-paced, endless running game where you control a cube dodgi
 ## How to Play
 
 1. **Start the Game:** Launch Cube Runner from your device.
-2. **Control the Cube:** Use the arrow keys (or swipe on mobile) to move the cube left or right.
+2. **Control the Cube:** Use the arrow keys to move the cube left or right.
 3. **Avoid Obstacles:** Navigate through the course without hitting any obstacles.
 4. **Collect Points:** The longer you survive, the higher your score!
 
@@ -21,8 +21,7 @@ Cube Runner is a fast-paced, endless running game where you control a cube dodgi
 
 ### Prerequisites
 
-- [Python 3.x](https://www.python.org/) (if the game is built with Python)
-- Or, just a browser if it's a web-based game.
+- [Unity](https://unity.com/) (Recommended version: the version used for development, e.g., Unity 2021.3 or newer)
 
 ### Steps
 
@@ -30,18 +29,10 @@ Cube Runner is a fast-paced, endless running game where you control a cube dodgi
    ```bash
    git clone https://github.com/ZamMar15/CubeRunner.git
    ```
-2. Navigate to the project directory:
-   ```bash
-   cd CubeRunner
-   ```
-3. Run the game:
-   - If Python:  
-     ```bash
-     python main.py
-     ```
-   - If web:  
-     Open `index.html` in your browser.
-
+2. Open Unity Hub and add the project folder (`CubeRunner`).
+3. Open the project in Unity.
+4. Press the Play button in the Unity Editor to run the game.
+   - To build for desktop or mobile, use **File > Build Settings** in Unity.
 
 ## Contributing
 
@@ -53,4 +44,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Enjoy Cube Runner and aim for the highest score!
+Enjoy Cube Runner and aim for the highest score!ghest score!

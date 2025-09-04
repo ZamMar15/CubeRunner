@@ -42,9 +42,6 @@ Cube Runner is a fast-paced, endless running game where you control a cube dodgi
    - If web:  
      Open `index.html` in your browser.
 
-## Screenshots
-
-![Gameplay Screenshot](assets/screenshot.png)
 
 ## Contributing
 

@@ -8,7 +8,7 @@ Cube Runner is a fast-paced, endless running game where you control a cube dodgi
 - **Simple Controls:** Easy to pick up and play – just use your keyboard.
 - **Dynamic Obstacles:** Dodge a variety of obstacles that increase in difficulty as you progress.
 - **Score System:** Compete for the highest score and challenge your friends.
-- **Clean Graphics:** Minimalistic and visually pleasing design.
+- **Clean Graphics:** Minimalistic and visually pleasing design. 
 
 ## How to Play
 
